@@ -6,3 +6,5 @@ This project takes you on a journey where you'll see how the Red Team attacks an
 Which team are you on!? JK Blue Team all the way!
 
 ![Capstone Engagement Project](https://github.com/EddyMedina/Capstone-Engagement-Project/blob/main/Project%202%20-%20Capstone%20Engagement.pdf)
+
+![Test Image](https://github.com/EddyMedina/Capstone-Engagement-Project/blob/main/test_image..JPG)
